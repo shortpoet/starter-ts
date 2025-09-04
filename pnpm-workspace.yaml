@@ -26,6 +26,7 @@ catalogs:
     '@types/node': ^22.13.10
   utils:
     tinyexec: ^0.3.2
+    tinyglobby: ^0.2.14
 onlyBuiltDependencies:
   - esbuild
   - simple-git-hooks

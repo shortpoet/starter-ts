@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm run test:*)",
+      "Bash(cat:*)",
+      "Bash(npm info:*)",
+      "Bash(pnpm add:*)",
+      "Bash(node:*)",
+      "Read(//Users/Shared/source/repos/shortpoet-dots/typescript/**)",
+      "Bash(gh auth:*)",
+      "Bash(echo \"Exit code: $?\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

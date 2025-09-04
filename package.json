@@ -47,6 +47,7 @@
     "mri": "catalog:cli",
     "simple-git-hooks": "catalog:cli",
     "tinyexec": "catalog:utils",
+    "tinyglobby": "catalog:utils",
     "tsx": "catalog:cli",
     "typescript": "catalog:cli",
     "unbuild": "catalog:cli",
